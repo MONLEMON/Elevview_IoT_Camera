@@ -1,0 +1,11 @@
+# Ignore ไฟล์ที่เกี่ยวกับ key และ credentials
+*.pem
+*.key
+*.crt
+*.env
+config.py
+aws-credentials.json
+
+# Ignore ไฟล์ระบบที่ไม่จำเป็น
+__pycache__/
+*.log
